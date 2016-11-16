@@ -1,5 +1,0 @@
-C:\Users\VitorCastellani\Documents\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
-C:\Users\VitorCastellani\Documents\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
-C:\Users\VitorCastellani\Documents\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
-C:\Users\VitorCastellani\Documents\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
-C:\Users\VitorCastellani\Documents\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb
